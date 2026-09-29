@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+*.pyc
+.env
+atlas-credentials.env
+*.mpeg
+*.mp3
+*.wav
+tmp/
+output/
+*.pdf
+*.csv
+*.json

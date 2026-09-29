@@ -1,0 +1,1 @@
+"""Factory adjuster simulation application."""
